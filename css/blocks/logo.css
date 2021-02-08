@@ -1,0 +1,8 @@
+.logo-link,
+.logo-img {
+  display: block;
+}
+
+.logo-img {
+  max-width: 100%;
+}
